@@ -3,11 +3,12 @@ import time
 import random
 import paho.mqtt.client as paho
 
+def _on_message(client, userdata, msg):
+    mensagem = msg.payload.decode("utf-8")
+    # Ainda não implementado
+    pass
+
 class Loja:
-    def _on_message(client, userdata, msg):
-        mensagem = msg.payload.decode("utf-8")
-        # Ainda não implementado
-        pass
     def __init__(self, Id: int):
         self.Id = Id
         self.estoque = [100, 60, 20]
