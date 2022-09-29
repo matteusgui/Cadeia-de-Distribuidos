@@ -1,0 +1,6 @@
+FROM python:3.8-slim-buster
+WORKDIR /mydir
+COPY requirements.txt requirements.txt
+COPY discen.py discen.py
+RUN pip install -r requirements.txt
+ENTRYPOINT [ "python","-u","discen.py"]

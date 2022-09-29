@@ -1,0 +1,115 @@
+version: "3"
+services:
+  loja0:
+    image: docker_loja
+    restart: unless-stopped
+    command: "0"
+  loja1:
+    image: docker_loja
+    restart: unless-stopped
+    command: "1"
+  loja2:
+    image: docker_loja
+    restart: unless-stopped
+    command: "2"
+  loja3:
+    image: docker_loja
+    restart: unless-stopped
+    command: "3"
+  loja4:
+    image: docker_loja
+    restart: unless-stopped
+    command: "4"
+  loja5:
+    image: docker_loja
+    restart: unless-stopped
+    command: "5"
+  loja6:
+    image: docker_loja
+    restart: unless-stopped
+    command: "6"
+  loja7:
+    image: docker_loja
+    restart: unless-stopped
+    command: "7"
+  loja8:
+    image: docker_loja
+    restart: unless-stopped
+    command: "8"
+  loja9:
+    image: docker_loja
+    restart: unless-stopped
+    command: "9"
+  loja10:
+    image: docker_loja
+    restart: unless-stopped
+    command: "10"
+  loja11:
+    image: docker_loja
+    restart: unless-stopped
+    command: "11"
+  loja12:
+    image: docker_loja
+    restart: unless-stopped
+    command: "12"
+  loja13:
+    image: docker_loja
+    restart: unless-stopped
+    command: "13"
+  loja14:
+    image: docker_loja
+    restart: unless-stopped
+    command: "14"
+  loja15:
+    image: docker_loja
+    restart: unless-stopped
+    command: "15"
+  loja16:
+    image: docker_loja
+    restart: unless-stopped
+    command: "16"
+  loja17:
+    image: docker_loja
+    restart: unless-stopped
+    command: "17"
+  loja18:
+    image: docker_loja
+    restart: unless-stopped
+    command: "18"
+  loja19:
+    image: docker_loja
+    restart: unless-stopped
+    command: "19"
+  cd:
+    image: docker_discen
+    restart: unless-stopped
+  fabrica0:
+    image: docker_fabrica
+    command: "0"
+  fabrica1:
+    image: docker_fabrica
+    command: "1"
+  fabrica2:
+    image: docker_fabrica
+    command: "2"
+  fabrica3:
+    image: docker_fabrica
+    command: "3"
+  fabrica4:
+    image: docker_fabrica
+    command: "4"
+  fabrica5:
+    image: docker_fabrica
+    command: "5"
+  fabrica6:
+    image: docker_fabrica
+    command: "6"
+  fabrica7:
+    image: docker_fabrica
+    command: "7"
+  fabrica8:
+    image: docker_fabrica
+    command: "8"
+  fabrica9:
+    image: docker_fabrica
+    command: "9"
