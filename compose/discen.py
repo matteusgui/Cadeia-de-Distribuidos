@@ -10,7 +10,8 @@ import random
 A = 0
 B = 1
 C = 2
-MAX_STOCK = np.array([200, 120, 40], dtype = np.int32)
+num_lojas = 20
+MAX_STOCK = np.array([100*num_lojas, 60*num_lojas, 20*num_lojas], dtype = np.int32)
 stock = np.empty(200, dtype=np.int32)
 for i in range(len(stock)):
     stock[i] = MAX_STOCK[i%3]/2

@@ -113,3 +113,183 @@ services:
   fabrica9:
     image: docker_fabrica
     command: "9"
+  fabrica10:
+    image: docker_fabrica
+    command: "10"
+  fabrica11:
+    image: docker_fabrica
+    command: "11"
+  fabrica12:
+    image: docker_fabrica
+    command: "12"
+  fabrica13:
+    image: docker_fabrica
+    command: "13"
+  fabrica14:
+    image: docker_fabrica
+    command: "14"
+  fabrica15:
+    image: docker_fabrica
+    command: "15"
+  fabrica16:
+    image: docker_fabrica
+    command: "16"
+  fabrica17:
+    image: docker_fabrica
+    command: "17"
+  fabrica18:
+    image: docker_fabrica
+    command: "18"
+  fabrica19:
+    image: docker_fabrica
+    command: "19"
+  fabrica20:
+    image: docker_fabrica
+    command: "20"
+  fabrica21:
+    image: docker_fabrica
+    command: "21"
+  fabrica22:
+    image: docker_fabrica
+    command: "22"
+  fabrica23:
+    image: docker_fabrica
+    command: "23"
+  fabrica24:
+    image: docker_fabrica
+    command: "24"
+  fabrica25:
+    image: docker_fabrica
+    command: "25"
+  fabrica26:
+    image: docker_fabrica
+    command: "26"
+  fabrica27:
+    image: docker_fabrica
+    command: "27"
+  fabrica28:
+    image: docker_fabrica
+    command: "28"
+  fabrica29:
+    image: docker_fabrica
+    command: "29"
+  fabrica30:
+    image: docker_fabrica
+    command: "30"
+  fabrica31:
+    image: docker_fabrica
+    command: "31"
+  fabrica32:
+    image: docker_fabrica
+    command: "32"
+  fabrica33:
+    image: docker_fabrica
+    command: "33"
+  fabrica34:
+    image: docker_fabrica
+    command: "34"
+  fabrica35:
+    image: docker_fabrica
+    command: "35"
+  fabrica36:
+    image: docker_fabrica
+    command: "36"
+  fabrica37:
+    image: docker_fabrica
+    command: "37"
+  fabrica38:
+    image: docker_fabrica
+    command: "38"
+  fabrica39:
+    image: docker_fabrica
+    command: "39"
+  fabrica40:
+    image: docker_fabrica
+    command: "40"
+  fabrica41:
+    image: docker_fabrica
+    command: "41"
+  fabrica42:
+    image: docker_fabrica
+    command: "42"
+  fabrica43:
+    image: docker_fabrica
+    command: "43"
+  fabrica44:
+    image: docker_fabrica
+    command: "44"
+  fabrica45:
+    image: docker_fabrica
+    command: "45"
+  fabrica46:
+    image: docker_fabrica
+    command: "46"
+  fabrica47:
+    image: docker_fabrica
+    command: "47"
+  fabrica48:
+    image: docker_fabrica
+    command: "48"
+  fabrica49:
+    image: docker_fabrica
+    command: "49"
+  fabrica50:
+    image: docker_fabrica
+    command: "50"
+  fabrica51:
+    image: docker_fabrica
+    command: "51"
+  fabrica52:
+    image: docker_fabrica
+    command: "52"
+  fabrica53:
+    image: docker_fabrica
+    command: "53"
+  fabrica54:
+    image: docker_fabrica
+    command: "54"
+  fabrica55:
+    image: docker_fabrica
+    command: "55"
+  fabrica56:
+    image: docker_fabrica
+    command: "56"
+  fabrica57:
+    image: docker_fabrica
+    command: "57"
+  fabrica58:
+    image: docker_fabrica
+    command: "58"
+  fabrica59:
+    image: docker_fabrica
+    command: "59"
+  fabrica60:
+    image: docker_fabrica
+    command: "60"
+  fabrica61:
+    image: docker_fabrica
+    command: "61"
+  fabrica62:
+    image: docker_fabrica
+    command: "62"
+  fabrica63:
+    image: docker_fabrica
+    command: "63"
+  fabrica64:
+    image: docker_fabrica
+    command: "64"
+  fabrica65:
+    image: docker_fabrica
+    command: "65"
+  fabrica66:
+    image: docker_fabrica
+    command: "66"
+  fabrica67:
+    image: docker_fabrica
+    command: "67"
+  fabrica68:
+    image: docker_fabrica
+    command: "68"
+  fabrica69:
+    image: docker_fabrica
+    command: "69"
