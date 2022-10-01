@@ -28,7 +28,7 @@ def on_message(client, userdata, msg):
     
     if(msg.topic == "Kx9Z4Ya"):
         
-        dif = result[2] if (stock[result[1]] - result[2]) >= 0 else stock[result[1]]
+        dif = result[2] if (stock[result[1]] - result[2]) >= 0 else 0
         stock[result[1]] -= dif
         #payload = str(result[0]) + ";" + str(result[1]) + ";" + str(dif)
         payload_loja = str(result[0]) + ";" + str(result[1]) + ";" + str(dif)
