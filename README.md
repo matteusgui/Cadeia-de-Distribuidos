@@ -62,3 +62,7 @@ Após isto, pode-se então subir a aplicação através do arquivo docker-compos
     docker compose up
 
 Após tal comando o sistema iniciará  instâncias de fábricas e diversas instâncias de lojas, além da instância de um Centro de Distribuição, a quantidade iniciada depende da quantidade de instâncias feitas no arquivo docker-compose.yml.
+
+Para realizar a parada do sistema é somente necessário utilizar o comando Ctrl+C e após isto, para desligar o serviço Docker pode-se utilizar o comando
+
+    sudo service docker stop
