@@ -3,6 +3,10 @@
 * Fernando Kioshi Kaida, 769667
 * Matteus Guilherme de Souza, 769816
 
+## Link para o arquivo da apresentação realizada
+
+https://drive.google.com/file/d/1i3VHmAAdu-2zRySyjmvL-qCsWjtGUjfd/view?usp=sharing
+
 Trabalho da Disciplina de Sistemas Distribuídos utilizando Docker e o broker do HiveMQ para simular uma cadeia de distribuição de produtos
 
 A ferramenta Docker é uma ferramenta muito atual, utilizada amplamente na indústria, que realiza a facilitação da portabilidade de código. Isto acontece uma vez que tal ferramenta separa a aplicação que está sendo executada do Sistema Operacional utilizado na máquina, se assemelhando as máquinas virtuais, sendo porém muito mais leve que tais plataformas. Tal sistema é muito utilizado hoje em dia pelo fato de que tal ferramenta facilita a transparência geográfica do sistema, já que a ferramenta é capaz de realizar chamadas remotas, este lado não foi porém muito utilizado no sistema realizado.
